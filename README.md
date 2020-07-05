@@ -1,6 +1,4 @@
 # MPC-quadrotor
-Practical Assignment Robot Motion Planning and Control
-Group 36 - MAV - MPC
 Q3 2019/202
 ------------------------------------------------------
 

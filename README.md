@@ -1,5 +1,4 @@
 # MPC-quadrotor
-Q3 2019/202
 ------------------------------------------------------
 
 For simulating the racing drone, the MPC_main.m file has

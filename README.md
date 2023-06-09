@@ -12,13 +12,3 @@ based on the location of the rings. It then sets up
 a optimization problem and solves it while also simulating
 the system. It outputs the state of the quadrotor over the
 simulation time.
-
-Best regards,
-
-Daan Bruggink
-
-Bart de Jong
-
-Tom Kerssemakers
-
-Mike Pesselse
